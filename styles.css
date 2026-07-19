@@ -37,11 +37,7 @@ h2 {
   margin-left: 8%;
   margin-right: 8%;
   margin-bottom: 1em;
-  max-height: 10%;
-  max-width: 50%;
-  border-radius: 5%;
-  border: 3px solid white;
-  margin-bottom: 2px;
+  max-height: 400px;
 }
 
 p {
